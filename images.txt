@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 minio/minio
+mysql:5.7
+jenkins/jenkins:2.414.2
