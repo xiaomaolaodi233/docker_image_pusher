@@ -1,2 +1,2 @@
 elasticsearch
-xuxueli/xxl-job-admin
+docker pull elasticsearch:7.3.1
