@@ -1,1 +1,1 @@
-elasticsearch
+mysql:8.0
